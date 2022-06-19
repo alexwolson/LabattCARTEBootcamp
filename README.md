@@ -4,8 +4,8 @@ This repository will provide access to slides and code from the bootcamp. Materi
 
 ## Introduction to Python, NumPy and Scikit-Learn (Optional):
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexwolson/LabattCARTEBootcamp/blob/main/Intro.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexwolson/LabattCARTEBootcamp/blob/master/Intro.ipynb)
 
 ## Lab 1: KNN, Cross-Validation and Regression:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexwolson/LabattCARTEBootcamp/blob/main/Lab1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexwolson/LabattCARTEBootcamp/blob/master/Lab1.ipynb)
